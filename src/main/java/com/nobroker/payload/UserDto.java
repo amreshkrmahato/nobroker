@@ -14,4 +14,5 @@ public class UserDto {
     private String email;
     private String mobile;
     private String password;
+    private boolean emailVerified;
 }
